@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+ <a href="https://www.linkedin.com/in/yaroslav-shevchenko-48068024b">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a> 
+  
 [![Linkedin](https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png)](https://www.linkedin.com/in/yaroslav-shevchenko-48068024b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BA97%2FPecDSD%2BrV8PsKajDvw%3D%3D "My Linkedin")
 
 [![Telegram](https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png)](https://t.me/Yaroslav8888888 "My Telegram")
