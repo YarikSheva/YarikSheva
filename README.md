@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ <div id="badges" align="center">
  <a href="https://www.linkedin.com/in/yaroslav-shevchenko-48068024b">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a> 
@@ -15,7 +15,7 @@
   <a href="https://drive.google.com/drive/folders/1bL6uw91tFg7P7WWSwTBfmXM5Svl8YEqs?usp=share_link">
   <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive Badge"/>
   </a>
-  
+  </div>
   
   
   
