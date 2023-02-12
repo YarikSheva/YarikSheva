@@ -1,4 +1,6 @@
 ### Hi there 👋
+![https://blog.waalaxy.com/wp-content/uploads/2021/01/logo-linkedin-2011.jpg![image](https://user-images.githubusercontent.com/120954668/218289651-8210ac3c-dfc4-4446-b52f-c5a252037cb5.png)
+](https://www.linkedin.com/in/yaroslav-shevchenko-48068024b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BA97%2FPecDSD%2BrV8PsKajDvw%3D%3D)
 
 <!--
 **YarikSheva/YarikSheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
