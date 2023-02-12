@@ -12,6 +12,12 @@
   <a href="https://shev4enka7@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <a href="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_drive_logo_icon_171056.png">
+  <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive Badge"/>
+  </a>
+  
+  
+  
   
 [![Linkedin](https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png)](https://www.linkedin.com/in/yaroslav-shevchenko-48068024b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BA97%2FPecDSD%2BrV8PsKajDvw%3D%3D "My Linkedin")
 
