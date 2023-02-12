@@ -3,7 +3,7 @@
 
 [![Telegram](https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png)](https://t.me/Yaroslav8888888 "My Telegram")
 
-[![Gmail](https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png)](https://myaccount.google.com/email)
+[![Gmail](https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png)](https://shev4enka7@gmail.com)
 <!--
 **YarikSheva/YarikSheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
