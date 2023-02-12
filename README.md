@@ -9,12 +9,15 @@
    <a href="https://t.me/Yaroslav8888888">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="https://shev4enka7@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
   
 [![Linkedin](https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png)](https://www.linkedin.com/in/yaroslav-shevchenko-48068024b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BA97%2FPecDSD%2BrV8PsKajDvw%3D%3D "My Linkedin")
 
 [![Telegram](https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png)](https://t.me/Yaroslav8888888 "My Telegram")
 
-[![Gmail](https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png)](https://shev4enka7@gmail.com "My Gmail")
+[![Gmail](https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png)](shev4enka7@gmail.com "My Gmail")
 
 [![Instagram](https://cdn.icon-icons.com/icons2/2530/PNG/512/instagram_button_icon_151849.png)](https://instagram.com/_yaroslavshevchenko_?igshid=YmMyMTA2M2Y= "My Instagram")
 
