@@ -12,7 +12,7 @@
   <a href="https://shev4enka7@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_drive_logo_icon_171056.png">
+  <a href="https://drive.google.com/drive/folders/1bL6uw91tFg7P7WWSwTBfmXM5Svl8YEqs?usp=share_link">
   <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive Badge"/>
   </a>
   
