@@ -18,7 +18,7 @@
   </div>
   
   <div align="center">
-  <a href="https://github.com/YarikSheva/github-profile-views-counter">
+  <a href="https://github.com/YarikSheva?tab=repositories/">
     <img src="https://komarev.com/ghpvc/?username=YarikSheva&style=for-the-badge">
 </a>
   </div>
