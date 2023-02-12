@@ -17,6 +17,10 @@
   </a>
   </div>
   
+  <a href="https://github.com/YarikSheva/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=YarikSheva&style=for-the-badge">
+</a>
+  
   
   
 <!-- [![Linkedin](https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png)](https://www.linkedin.com/in/yaroslav-shevchenko-48068024b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BA97%2FPecDSD%2BrV8PsKajDvw%3D%3D "My Linkedin") -->
